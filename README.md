@@ -2,7 +2,7 @@
 # Sample REST CRUD API with Spring Boot, Mongodb, Mongodp Repository
 This is sample Jave/Maven/Spring Boot(version 2.7)  that can be used as a starter for creating a microservice complete.
 
-The service is just a simple Product management review REST service. It uses an in Mongodb database to store the data. Mongodb is an no SQL Database. you can call some REST endpoints defined in localhost on port 8090.
+The service is just a simple Product management review REST service. It uses an in Mongodb database to store the data. Mongodb is a not SQL Database. you can call some REST endpoints defined in localhost on port 8090.
 
 
 ## Documentation
