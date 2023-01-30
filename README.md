@@ -20,7 +20,7 @@ Spring boot database documentation(https://docs.spring.io/spring-data/jpa/docs/c
     
 ## Tech Stack
 
-**Tools:** Testng, Selenium, Maven
+**Tools:** Spring boot, mongodb, Maven
 
 
 
