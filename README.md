@@ -37,7 +37,7 @@ Spring boot database documentation(https://docs.spring.io/spring-data/jpa/docs/c
 
 
 ## 🛠 Skills
-Core Java, Servlets&JSP,Basic Css,Basic Javascript, html,Rest Api,Rest Assured,Postman,Api Testing, Api/Web Service Devlopement using Servlets and JSP...
+Core Java, Servlets&JSP,Basic Css,Basic Javascript, html,Rest Api,Rest Assured,Postman,Api Testing, Api/Web Service Devlopement using Spring Boot,JSP and mongodb...
 
 
 ## Optimizations
